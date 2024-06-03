@@ -17,6 +17,11 @@ p {
     min-width: 960px;
     margin: 0 auto 0 auto;
   }
+  /* スマホ用ナビを非表示 */
+  #nav-sp,
+  #menu-sp{
+    display: none;
+  }
   /* ヘッダー */
   header {
     display: flex;
