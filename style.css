@@ -1187,6 +1187,9 @@ p {
       margin-top: 30px;
       color: #ffffff;
   }
+  .case-img {
+    width: 100%;
+  }
  
   /* mission.html用スタイル */
   /* ミッションのメインビジュアル */
